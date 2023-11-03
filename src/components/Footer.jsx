@@ -44,7 +44,7 @@ const Footer = () => {
               </li>
             </ul>
             <div className="footer-text">
-              This Website is developed by "Muhammad Junaid"
+              This Website is developed by <i>Muhammad Junaid</i>
             </div>
           </div>
         </div>

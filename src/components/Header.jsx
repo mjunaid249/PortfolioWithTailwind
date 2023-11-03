@@ -11,7 +11,7 @@ const Header = () => {
           <div className="flex items-center justify-between">
             <Link
               className="flex-none text-xl font-semibold dark:text-white"
-              to={"/"}
+              to={"/PortfolioWithTailwind"}
             >
               Junaid
             </Link>
@@ -54,7 +54,7 @@ const Header = () => {
             <div className="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:pl-5">
               <Link
                 className="font-medium  text-gray-600"
-                to={"/"}
+                to={"/PortfolioWithTailwind"}
                 aria-current="page"
               >
                 Home
